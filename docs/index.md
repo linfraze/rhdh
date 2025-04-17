@@ -154,11 +154,11 @@ extraEnvs:
       value: <segment_key>
 ```
 
-If you wish to subsequently disable telemetry data collection, use one of the following methods described below.
+If you want to subsequently disable telemetry data collection, use one of the following methods.
 
 ## Running Locally with a basic configuration
 
-The easiest and fastest method for getting started: RHDH app, running it locally only requires a few simple steps.
+Using the RHDH app is the easiest and fastest method for getting started. Running it locally only requires a few simple steps.
 
 1. Copy `app-config.example.yaml` and rename it as `app-config.local.yaml`.
 
